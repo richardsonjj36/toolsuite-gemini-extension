@@ -1,0 +1,11 @@
+{
+  "name": "startup-ignition-toolsuite",
+  "version": "1.0.0",
+  "description": "Validate startup ideas with Startup Ignition ToolSuite: read your ideas, canvases, personas, assumptions and interview findings; run the validation steps; ask the mentor; edit canvases with undo; export PDFs.",
+  "mcpServers": {
+    "toolsuite": {
+      "httpUrl": "https://mcp.startupignition.com/mcp",
+      "timeout": 120000
+    }
+  }
+}
